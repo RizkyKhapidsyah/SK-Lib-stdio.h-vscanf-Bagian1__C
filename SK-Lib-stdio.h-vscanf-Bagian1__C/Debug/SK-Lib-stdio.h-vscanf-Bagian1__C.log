@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vscanf-Bagian1__C\SK-Lib-stdio.h-vscanf-Bagian1__C\Source.c(28,8): warning C4013: '_getch' undefined; assuming extern returning int
+  SK-Lib-stdio.h-vscanf-Bagian1__C.vcxproj -> D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vscanf-Bagian1__C\Debug\SK-Lib-stdio.h-vscanf-Bagian1__C.exe
